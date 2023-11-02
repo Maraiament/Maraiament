@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Maraiament
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning mobile application
+- 🌱 I’m currently learning mobile application,Visual basics,Java,C++and system analysis
 - 💞️ I’m looking to collaborate on more 
 - 📫 How to reach me mariamadam626@gmail.com
 
